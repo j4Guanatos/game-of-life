@@ -40,3 +40,4 @@ Some of the cellular automata can stabilize (going to a static state), cycle (re
 
 We will work with chaos stabilization, identifying a point where the grid doesn’t change after any subsequent iteration.
 
+[Seating System](problems/seating-system.md)
