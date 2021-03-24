@@ -108,3 +108,5 @@ At this point, something interesting happens: the chaos stabilizes and further a
 no seats to change state! Once people stop moving around, you count 37 occupied seats.
 Simulate your seating area by applying the seating rules repeatedly until no seats change state.
 How many seats end up occupied?
+
+Answers to inputs: 37 (input 1) and 2164 (input 2).
