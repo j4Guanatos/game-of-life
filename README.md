@@ -9,7 +9,11 @@ A traditional problem is a 2-dimensional grid in which each cell is alive or dea
 
 For example, this initial grid:
 
-will evolve to this one:
+![Stage 0](ca-stage-01.png "Stage 0")
+
+will evolve to the following:
+
+![Stage 1](ca-stage-02.png "Stage 1")
 
 Our task will be to code and show some Game of Life related problems.
 
